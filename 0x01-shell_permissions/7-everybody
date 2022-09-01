@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod rw-rw-rw- jess+x hello
+chmod 666 jess+x hello
